@@ -46,8 +46,20 @@ Nom du Chef du département ou catégorie
 
 6- Oracle Database: Un système de gestion de base de données relationnel (SGBDR).
 
-7- SQL Developer: Une interface utilisateur graphique gratuite, Oracle SQL Developer, permet aux utilisateurs et aux administrateurs de base de données d’effectuer leurs tâches de base de données en moins de clics et de frappes.
 
+7- SQL Developer: Une interface utilisateur graphique gratuite, Oracle SQL Developer, permet aux utilisateurs et aux administrateurs de base de données d’effectuer leurs tâches de base de données en moins de clics et de frappe
+
+## III. Quelques Interfaces de l'application :
+
+![Hopitale-pic1](https://user-images.githubusercontent.com/81409329/211856276-16769860-b956-40bd-8d12-82e231c7b8fc.png)
+
+![Hopitale-pic2](https://user-images.githubusercontent.com/81409329/211856305-013d392e-afe3-4560-8a5c-9461537c75a9.png)
+
+![Hopitale-pic3](https://user-images.githubusercontent.com/81409329/211856338-ca455352-af21-454c-a92e-e52cbfdf6d8a.png)
+
+![Hopitale-pic4](https://user-images.githubusercontent.com/81409329/211856371-14606446-b9f7-46cd-a708-80a39c0e35a1.png)
+
+![Hopitale-pic5](https://user-images.githubusercontent.com/81409329/211856404-302f6b0f-20cb-499d-a43c-439aacff69c7.png)
 
 
 
