@@ -165,7 +165,7 @@ public class GestMaladesController implements Initializable {
      public Connection getConnection(){
         Connection con = null;
         try{
-            String url = "jdbc:sqlite:/home/abdelghafour/NetBeansProjects/Gestion-Hopitale/Hopitale.db";
+            String url = "jdbc:sqlite:Hopitale.db";
             con = DriverManager.getConnection(url);
         }
         catch(SQLException ex){

@@ -1,6 +1,12 @@
-/home/abdelghafour/NetBeansProjects/gestion_hopitale/src/main/java/hopitale/AdminGestMedcinsController.java
-/home/abdelghafour/NetBeansProjects/gestion_hopitale/src/main/java/hopitale/Medcin.java
-/home/abdelghafour/NetBeansProjects/gestion_hopitale/src/main/java/hopitale/AuthentificationController.java
-/home/abdelghafour/NetBeansProjects/gestion_hopitale/src/main/java/module-info.java
-/home/abdelghafour/NetBeansProjects/gestion_hopitale/src/main/java/hopitale/AdminGestCatController.java
-/home/abdelghafour/NetBeansProjects/gestion_hopitale/src/main/java/hopitale/Main.java
+C:\Users\tariq\Desktop\Nouveau dossier (2)\Hospitale-Services-Application_With_JavaFX\src\main\java\hopitale\AdminGestInfirmierController.java
+C:\Users\tariq\Desktop\Nouveau dossier (2)\Hospitale-Services-Application_With_JavaFX\src\main\java\hopitale\Infirmier.java
+C:\Users\tariq\Desktop\Nouveau dossier (2)\Hospitale-Services-Application_With_JavaFX\src\main\java\module-info.java
+C:\Users\tariq\Desktop\Nouveau dossier (2)\Hospitale-Services-Application_With_JavaFX\src\main\java\hopitale\Medcin.java
+C:\Users\tariq\Desktop\Nouveau dossier (2)\Hospitale-Services-Application_With_JavaFX\src\main\java\hopitale\VisualisationController.java
+C:\Users\tariq\Desktop\Nouveau dossier (2)\Hospitale-Services-Application_With_JavaFX\src\main\java\hopitale\Malades.java
+C:\Users\tariq\Desktop\Nouveau dossier (2)\Hospitale-Services-Application_With_JavaFX\src\main\java\hopitale\Categorie.java
+C:\Users\tariq\Desktop\Nouveau dossier (2)\Hospitale-Services-Application_With_JavaFX\src\main\java\hopitale\AdminGestMedcinsController.java
+C:\Users\tariq\Desktop\Nouveau dossier (2)\Hospitale-Services-Application_With_JavaFX\src\main\java\hopitale\GestMaladesController.java
+C:\Users\tariq\Desktop\Nouveau dossier (2)\Hospitale-Services-Application_With_JavaFX\src\main\java\hopitale\AuthentificationController.java
+C:\Users\tariq\Desktop\Nouveau dossier (2)\Hospitale-Services-Application_With_JavaFX\src\main\java\hopitale\AdminGestCategorieController.java
+C:\Users\tariq\Desktop\Nouveau dossier (2)\Hospitale-Services-Application_With_JavaFX\src\main\java\hopitale\Main.java
