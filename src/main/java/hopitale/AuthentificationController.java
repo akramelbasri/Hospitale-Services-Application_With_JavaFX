@@ -70,16 +70,10 @@ public class AuthentificationController implements Initializable {
     }
 
     @FXML
-    private void AdminConnection(ActionEvent event) {
+    private void AdminConnection(ActionEvent event) throws IOException {
         if( adminIdentif.getText().equals("Admin001") && adminPassword.getText().equals("admin")){
-            try{
-                Main.setRoot("AdminGestMedecins");
-       
-            }
-            catch(IOException e){
-                System.out.println(".........."+e);
-            }
-            
+            Main.setRoot("AdminGestMedecins");
+
         } else{
             lbMsg.setText("Identifient / Mot de passe Incorrect !");
             lbMsg.setStyle("-fx-background-color: #fad4d4; -fx-padding: 5");
